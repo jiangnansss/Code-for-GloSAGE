@@ -1,6 +1,6 @@
 # GloSAGE: core research code
 
-This preliminary release collects a subset of the GloSAGE code: binary lesion-recognition fine-tuning, GS_class2 inference, and visual-adapter training with an open causal LLM. More experiments, models, training utilities, and checkpoints will be organized and released progressively. No images, text examples, patient data, or weights are included here.
+This preliminary release collects a subset of the GloSAGE (Knowledge-structured and evidence-aware semantic self-distillation for glomerular pathology foundation model): binary lesion-recognition fine-tuning, GS_class2 inference, and visual-adapter training with an open causal LLM. More experiments, models, training utilities, and checkpoints will be organized and released progressively. No images, text examples, patient data, or weights are included here.
 
 ## Important reproduction status
 
