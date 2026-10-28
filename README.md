@@ -37,7 +37,7 @@ weights/
 outputs/
 ```
 
-GloPath and GloSAGE weights are released at https://drive.google.com/file/d/18-OD26r5ywJAFA4RfyHB5tYU-9Hng0n_/view?usp=sharing and https://drive.google.com/file/d/1XBtTRcv60Im_R8-rNdsp_U3tfKkSh4JN/view?usp=sharing. The public GS classification dataset AIDPATH DATASET_B can be requested/downloaded at [Mendeley Data](https://data.mendeley.com/datasets/k7nvtgn2x6/3); see its licence and usage conditions. Keep the `normal` and `sclerosed` images in their respective directories.
+GloPath and GloSAGE weights: **Google Drive `xxxx`** (placeholder; links and distribution terms to be added). The public GS classification dataset AIDPATH DATASET_B can be requested/downloaded at [Mendeley Data](https://data.mendeley.com/datasets/k7nvtgn2x6/3); see its licence and usage conditions. Keep the `normal` and `sclerosed` images in their respective directories.
 
 Other foundation model releases are [UNI](https://huggingface.co/MahmoodLab/UNI), [PLIP](https://huggingface.co/vinid/plip), [CONCH](https://huggingface.co/MahmoodLab/CONCH), and [KEEP](https://huggingface.co/MAGIC-AI4Med/KEEP). Some require access approval. Download the KEEP release (including `config.json`) into `weights/KEEP` using Hugging Face tools. The default VQA LLM is [Qwen2.5-0.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct); obtain its model weights and tokenizer from its open release, subject to its licence. It can be downloaded automatically through Transformers or supplied as a local directory.
 
